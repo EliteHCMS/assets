@@ -1,4 +1,4 @@
-import{c as oe,e as ae,b as Yr}from"./index.226979dd.js";var Ye={exports:{}};/*!
+import{c as oe,e as ae,b as Yr}from"./index.e88105df.js";var Ye={exports:{}};/*!
     localForage -- Offline Storage, Improved
     Version 1.10.0
     https://localforage.github.io/localForage
