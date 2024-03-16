@@ -1,1 +1,0 @@
-import{_ as e,aK as s,m as t,au as r,av as o,aY as n,d as c,aX as p}from"./index.e0005220.js";const d={name:"Personal",components:{},setup(){return{$q:s()}}};function l(a,u,_,f,m,i){return t(),r(n,{style:{"max-width":"100vw"}},{default:o(()=>[c(p,{class:"personal-card",flat:""})]),_:1})}var x=e(d,[["render",l]]);export{x as default};
