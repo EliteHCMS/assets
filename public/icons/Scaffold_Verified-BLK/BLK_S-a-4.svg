@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.08 39.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-family: ProximaNova-Bold, 'Proxima Nova';
+        font-size: 21px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 1.06px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(4.47 23.02)"><tspan x="0" y="0">S4</tspan></text>
+  <path class="cls-2" d="M33.18,5.18L17.04.55.9,5.18S-3.37,30.91,17.04,38.89C37.44,30.91,33.18,5.18,33.18,5.18Z"/>
+</svg>
